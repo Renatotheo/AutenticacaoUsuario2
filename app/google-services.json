@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "596059903884",
+    "firebase_url": "https://autenticacaousuario-e0d20.firebaseio.com",
+    "project_id": "autenticacaousuario-e0d20",
+    "storage_bucket": "autenticacaousuario-e0d20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596059903884:android:581eed2cebf98585",
+        "android_client_info": {
+          "package_name": "com.example.theobaldo.autenticacaousuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596059903884-t94u6lsler4ld397egbfo7ha1mn8qcot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theobaldo.autenticacaousuario",
+            "certificate_hash": "94c29e9d7ba6163e5b4b74dda580f45896ca88ae"
+          }
+        },
+        {
+          "client_id": "596059903884-do93o8j6o1vb83kf336hr2a4acbqk2bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXj9BSLz5aeRcltmXWUoMlg6FyN-kKKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596059903884-do93o8j6o1vb83kf336hr2a4acbqk2bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
